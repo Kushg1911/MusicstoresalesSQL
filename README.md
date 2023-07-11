@@ -15,3 +15,5 @@ This repository contains a project focused on analyzing music sales data to gain
 - Aggregate Functions
 - Sorting and Limiting
 - Subqueries
+
+
