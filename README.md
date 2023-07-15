@@ -3,7 +3,7 @@ Analyzing music sales data to gain customer insights and optimize business strat
 
 This repository contains a project focused on analyzing music sales data to gain valuable insights into customer behavior, revenue trends, and genre preferences. By performing SQL queries on the dataset, we uncover important information that can guide decision-making and optimize business strategies.
 
-## Dataset
+## Problem Statement
 The dataset used for this analysis contains information about customers, invoices, tracks, artists, and genres. It provides a comprehensive view of the music sales ecosystem, allowing us to explore various aspects of the business. The dataset consists of structured tables, including relationships between entities, providing rich opportunities for analysis.
 
 ## Tools:
